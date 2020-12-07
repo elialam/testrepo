@@ -1,2 +1,2 @@
 # testrepo
-coursera excercise
+This is a part of coursera excercise.
